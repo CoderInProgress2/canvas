@@ -1,0 +1,8 @@
+body {
+    background-image: url("https://th.bing.com/th/id/R.0383c6a65363f3d8d18d445675029c62?rik=ZeLGQmBWchh69A&riu=http%3a%2f%2fimages4.fanpop.com%2fimage%2fphotos%2f22100000%2fColored-pencils-pencils-22186520-2560-1702.jpg&ehk=NiEao3GRjvspxsBfG1IeGMQCGPcnQd%2fCaAzI2Y0%2bOQw%3d&risl=1&pid=ImgRaw&r=0");
+}
+#myCanvas {
+    background-color: white;
+    border: ridge;
+    border-width: 10px;
+}
